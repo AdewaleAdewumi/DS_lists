@@ -1,5 +1,5 @@
 Useful code for Data science
-
+import numpy as np
 Reading a CSV with pandas
 -Example:
 import pandas as pd
@@ -7,3 +7,4 @@ df = pd.read_csv("data.csv")
 
 Removing duplicates
 -example:
+Just trying this
